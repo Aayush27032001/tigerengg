@@ -186,7 +186,7 @@ footer {
 
 .about-image {
   flex: 1;
-  max-width: 50%;
+  max-width: 100%;
   padding: 20px;
   display: flex;
   justify-content: center;
